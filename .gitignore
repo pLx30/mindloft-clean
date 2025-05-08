@@ -1,0 +1,23 @@
+# 📦 Abhängigkeiten
+node_modules/
+
+# 🧪 Build- und Cache-Dateien
+dist/
+build/
+.cache/
+.next/
+.vite/
+
+# 📄 Lokale Umgebungsvariablen
+.env
+.env.*.local
+
+# 🧠 Systemdateien & Editoren
+.DS_Store
+Thumbs.db
+*.log
+
+# 🛠️ IDE-Konfiguration
+.vscode/
+.idea/
+*.swp
